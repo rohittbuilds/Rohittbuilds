@@ -17,9 +17,8 @@ I'm a passionate Full Stack Developer with a strong foundation in both front-end
 I'm always eager to collaborate on exciting projects, whether they involve web development, blockchain technology, or innovative new ideas. If you have a project in mind or just want to chat about tech, feel free to reach out!
 
 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/rohit-yadav-84282a190/)
-- [Twitter](https://x.com/Rohitsolocoid)
-- [Email](mailto:solocoid5450@gmail.com)
+- [Twitter](https://x.com/Rohittbuilds)
+- [Email](mailto:rohittbuilds@gmail.com)
 
 Looking forward to connecting and creating something amazing together! 🚀
 
