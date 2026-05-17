@@ -24,4 +24,3 @@ Looking forward to connecting and creating something amazing together! 🚀
 
 ---
 
-Feel free to customize this template to better reflect your personal style and add any specific details that highlight your unique experiences and skills.
